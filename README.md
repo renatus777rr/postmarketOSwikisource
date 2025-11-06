@@ -9,3 +9,4 @@
 
 WARNING! host it only on localhost, because else you can be cooked. AND YEAH THIS IS REMADE AND NOT REAL ONE SOURCE CODE!!
 Dont mind the pages please, remove them if you want.
+Don't mind either why the iPhone 4s is in main.
