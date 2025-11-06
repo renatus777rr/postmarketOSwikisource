@@ -1,4 +1,5 @@
 ** Postmarketos wiki source code remake **
+!WARNING! YOU NEED TO SETUP PROPERLY! BECAUSE I SHARED ONLY WHAT NEED, SO YOU NEED TO FIX ALL AND INSTALL. FOR EXAMPLE COMPOSER, IMAGEMAGICK, ETC..
 
 1. download mediawiki, latest version. (1.41.1)
 2. dont setup all, put extensions folder and images folder in mediawiki root folder.
@@ -7,6 +8,6 @@
 5. run the webserver with mysql
 6. login using username "PmOS" and password "postmarketOS"
 
-WARNING! host it only on localhost, because else you can be cooked. AND YEAH THIS IS REMADE AND NOT REAL ONE SOURCE CODE!!
+!WARNING! host it only on localhost, because else you can be cooked. AND YEAH THIS IS REMADE AND NOT REAL ONE SOURCE CODE!!
 Dont mind the pages please, remove them if you want.
 Don't mind either why the iPhone 4s is in main. (thats not truth!)
