@@ -1,6 +1,7 @@
 ** Postmarketos wiki source code remake **
 !WARNING! YOU NEED TO SETUP PROPERLY! BECAUSE I SHARED ONLY WHAT NEED, SO YOU NEED TO FIX ALL AND INSTALL. FOR EXAMPLE COMPOSER, IMAGEMAGICK, ETC.. AND WSL NOT SUPPORTED (i tested)
-
+!WARNING! Most of images is lost, so you need to publish own, idk.
+!TODO! Everyone!, make an fork of this source, and add images, extensions, full guide.
 1. download mediawiki, latest version. (1.41.1)
 2. dont setup all, put extensions folder and images folder in mediawiki root folder.
 3. put LocalSettings.php in root folder of mediawiki
