@@ -1,5 +1,4 @@
 ** Postmarketos wiki source code remake **
-PostmarketOS Wiki Source Code Remake Guide
 
 Important notice: This is a remade version of the PostmarketOS wiki source code. It is not the official repository. You must set up the environment properly yourself. Some components are missing, such as images, so you will need to provide your own. This guide explains how to prepare the environment, install dependencies, and run the wiki locally.
 
