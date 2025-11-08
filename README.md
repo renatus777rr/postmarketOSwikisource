@@ -1,14 +1,26 @@
 ** Postmarketos wiki source code remake **
-!WARNING! YOU NEED TO SETUP PROPERLY! BECAUSE I SHARED ONLY WHAT NEED, SO YOU NEED TO FIX ALL AND INSTALL. FOR EXAMPLE COMPOSER, IMAGEMAGICK, ETC.. AND WSL NOT SUPPORTED (i tested)
-!WARNING! Most of images is lost, so you need to publish own, idk.
-!TODO! Everyone!, make an fork of this source, and add images, extensions, full guide.
-1. download mediawiki, latest version. (1.41.1)
-2. dont setup all, put extensions folder and images folder in mediawiki root folder.
-3. put LocalSettings.php in root folder of mediawiki
-4. import sql. (WARNING, THE DB NAME SHOULD BE wikidb AND YOU NEED CREATE USER wikiuser AND PASS 1234 OR ELSE YOU CAN SETUP THE DB NAME AND PASS IN LocalSettings.php)
-5. run the webserver with mysql
-6. login using username "PmOS" and password "postmarketOS"
+Important notice: This is a remade version of the PostmarketOS wiki source code. It is not the official repository. You must set up the environment properly yourself. Some components are missing, such as images, so you will need to provide your own. This guide explains how to prepare the environment, install dependencies, and run the wiki locally.
 
-!WARNING! host it only on localhost, because else you can be cooked. AND YEAH THIS IS REMADE AND NOT REAL ONE SOURCE CODE!!
-Dont mind the pages please, remove them if you want.
-Don't mind either why the iPhone 4s is in main. (thats not truth!)
+Warnings:
+
+    This source is incomplete; you must configure and install required components manually.
+
+    Do not host this on a public server. Run it only on localhost for testing.
+
+    Some pages and images are placeholders. You may remove or replace them.
+
+    The iPhone 4s appearing on the main page is not factual content.
+
+Step 1. Install prerequisites Install the following dependencies on your system:
+
+    PHP (version 8.1 or newer recommended)
+
+    MySQL or MariaDB
+
+    Composer (PHP dependency manager)
+
+    ImageMagick (for image processing in MediaWiki)
+
+    Git (for cloning and managing the source repository) Note: WSL (Windows Subsystem for Linux) is not supported.
+
+Step 2. Download MediaWiki and source Download the latest MediaWiki release (for example 1.41.1). Extract it and move it to your webserver root, for example /var/www/mediawiki. Clone or fork the PostmarketOS wiki source repository with Git and copy the provided extensions folder and images folder into the MediaWiki root. Copy 
