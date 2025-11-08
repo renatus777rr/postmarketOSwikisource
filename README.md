@@ -10,8 +10,6 @@ Warnings:
 
     Some pages and images are placeholders. You may remove or replace them.
 
-    The iPhone 4s appearing on the main page is not factual content.
-
 Step 1. Install prerequisites Install the following dependencies on your system:
 
     PHP (version 8.1 or newer recommended)
